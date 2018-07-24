@@ -18,7 +18,7 @@ Make the necessary edits to the Vagrantfile for your favorite provider
 ## Setup
 - Set environment variables
   - VSPHERE_USER (Valid user for your vsphere instance)
-  - VSPHERE_PASS (Base64 encoded password for VSPHERE_USER)
+  - VSPHERE_PASS (You will be prompted for a password if this variable is not set)
 - Fill in empty VM configuration values that are specific to vsphere
 
 ## How to run
